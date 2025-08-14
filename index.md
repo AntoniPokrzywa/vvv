@@ -18,4 +18,4 @@ Hi, I'm Antoni Pokrzywa. Check out my repos\!
 
 -----
 
-© 2024-00-11 Antoni Pokrzywa
+© 2025-08-14T08:25:32Z Antoni Pokrzywa
